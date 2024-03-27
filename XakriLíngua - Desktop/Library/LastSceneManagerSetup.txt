@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/Cenas/Vocabul\xE1rio/animais.unity"
+  isLoaded: 1
+  isActive: 1

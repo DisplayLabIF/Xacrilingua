@@ -1,0 +1,47 @@
+fileFormatVersion: 2
+guid: 4bef30f73378fe74e9596e1dce136d84
+timeCreated: 1558618304
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ataquePos: {instanceID: 0}
+  - chatPos: {instanceID: 0}
+  - acaoPos: {instanceID: 0}
+  - firePoint: {instanceID: 0}
+  - detectorDeChao: {instanceID: 0}
+  - myTransform: {instanceID: 0}
+  - txtAlhoRestante: {instanceID: 0}
+  - chatFinal: {instanceID: 0}
+  - chatCanoa1: {instanceID: 0}
+  - chatCanoa2: {instanceID: 0}
+  - chatCanoa3: {instanceID: 0}
+  - chatMensagem: {instanceID: 0}
+  - item_hud: {instanceID: 0}
+  - projetil: {instanceID: 0}
+  - acao: {instanceID: 0}
+  - jogador: {instanceID: 0}
+  - txtAlho: {instanceID: 0}
+  - itemBau: {instanceID: 0}
+  - bau: {instanceID: 0}
+  - smokePuff: {instanceID: 0}
+  - btnArremesso: {instanceID: 0}
+  - missao01: {instanceID: 0}
+  - missao02: {instanceID: 0}
+  - missao03: {instanceID: 0}
+  - somCompra: {instanceID: 0}
+  - moedaSom: {instanceID: 0}
+  - somItem: {instanceID: 0}
+  - somSmoke: {instanceID: 0}
+  - animador: {instanceID: 0}
+  - abrirBau: {instanceID: 0}
+  - smokePuff2: {instanceID: 0}
+  - rio: {instanceID: 0}
+  - btnArremeco: {instanceID: 0}
+  - btnArremecoNull: {fileID: 21300000, guid: 4e5c284ae3f016a43a6de9d8417a76d1, type: 3}
+  - btnArremecoAtivo: {fileID: 21300000, guid: 7de9fd6da44da774c97bdda76d25a22f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
